@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../APLCollectionViewDataSource.podspec
 
 SPEC CHECKSUMS:
-  APLCollectionViewDataSource: 0f11c55257436629fa71851ffd02ff61ccf82212
+  APLCollectionViewDataSource: 6fa2f2840ce0d71b9caa00a5d16432ed75012407
 
 COCOAPODS: 0.29.0
