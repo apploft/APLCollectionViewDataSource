@@ -1,0 +1,5 @@
+
+target "APLCollectionViewDataSourceDemo" do
+pod "APLCollectionViewDataSource", :path => "../APLCollectionViewDataSource.podspec"
+end
+
