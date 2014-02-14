@@ -1,0 +1,14 @@
+PODS:
+  - APLCollectionViewDataSource (0.1.0)
+
+DEPENDENCIES:
+  - APLCollectionViewDataSource (from `../APLCollectionViewDataSource.podspec`)
+
+EXTERNAL SOURCES:
+  APLCollectionViewDataSource:
+    :path: ../APLCollectionViewDataSource.podspec
+
+SPEC CHECKSUMS:
+  APLCollectionViewDataSource: 6fa2f2840ce0d71b9caa00a5d16432ed75012407
+
+COCOAPODS: 0.29.0
